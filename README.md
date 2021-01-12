@@ -1,5 +1,5 @@
 # Python Tic-Tac-Toe
-![Tic-Tac-Toe](tic-tac-toe.png)
+![Tic-Tac-Toe](/tic-tac-toe.PNG)
 A tic-tac-toe game made in python that you play inside of a console window.
 
 First python program complete! 🥳
