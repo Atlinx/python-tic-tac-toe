@@ -14,7 +14,7 @@ First python program complete! 🥳
 
 2. Navigate to the file in your console and then run the python script.
 	
-	For [python.org](https://www.python.org) interpreters on Windows, Mac, & Linux, you can start the script inside of your console with.
+	For [python.org](https://www.python.org) interpreters on Windows, Mac, & Linux, you can start the script inside of your console with:
 	```console
 	python tic-tac-toe.py 
 	```
