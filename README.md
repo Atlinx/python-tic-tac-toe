@@ -16,7 +16,7 @@ First python program complete! 🥳
 
 2. Download [tic-tac-toe.py](tic-tac-toe.py)
 
-3. Navigate to the file in your console and then run the python script.
+3. Navigate to the tic-tac-toe.py in your console and then run the python script.
 	
 	For [python.org](https://www.python.org) interpreters on Windows, Mac, & Linux, you can start the script inside of your console with:
 	```console
